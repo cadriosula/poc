@@ -6,12 +6,12 @@
 	 
 <![CDATA[ 
 <!--  
-  <link rel="stylesheet" href="https://raw.githubusercontent.com/cadriosula/poc/master/bootstrap/bootstrap.min.css">
+ 
    <script src="https://raw.githubusercontent.com/cadriosula/poc/master/bootstrap/jquery.min.js"></script>
   <script src="https://raw.githubusercontent.com/cadriosula/poc/master/bootstrap/bootstrap.min.js"></script>
  --> 
-
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">   
+ <link rel="stylesheet" href="https://rawgit.com/cadriosula/poc/master/bootstrap/bootstrap.min.css">
+ <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">   -->
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 
@@ -101,7 +101,7 @@ a:active {
 		  <div style="position:absolute;bottom:20px;left:50px;padding-left:0;">     
 	       <p id="message-box">
 		   <br>
-		   <font size="5" style="color:white;">Announcing DXC Workplace 1</font><br><br>
+		   <font size="5" style="color:white;">Announcing DXC Workplace 1A</font><br><br>
 		   <font size="2" style="color:white;">Join the conversation.</font><br><br>
 		   <font size="2" style="color:white;"><a href="https://my.dxc.com/content/dam/private/employee_resources/dxc-workplace/DXC_Workplace_Employee_message.pdf">READ MORE</a></font><br/>		   
 		   </p>
@@ -130,9 +130,9 @@ a:active {
 		  <div style="position:absolute;bottom:20px;left:50px;padding-left:0;">     
 			   <p id="message-box">
 			   <br>
-			   <font size="6" style="color:white;">Announcing DXC Workplace 2</font><br><br>
-			   <font size="3" style="color:white;">Join the conversation.</font><br><br>
-			   <font size="3" style="color:white;"><a href="https://my.dxc.com/content/dam/private/employee_resources/dxc-workplace/DXC_Workplace_Employee_message.pdf">READ MORE</a></font><br/>		   
+			   <font size="5" style="color:white;">Announcing DXC Workplace 2</font><br><br>
+			   <font size="2" style="color:white;">Join the conversation.</font><br><br>
+			   <font size="2" style="color:white;"><a href="https://my.dxc.com/content/dam/private/employee_resources/dxc-workplace/DXC_Workplace_Employee_message.pdf">READ MORE</a></font><br/>		   
 	   
 			   </p>
 	      </div>
@@ -158,9 +158,9 @@ a:active {
 		  <div style="position:absolute;bottom:20px;left:50px;padding-left:0;">     
 			   <p id="message-box">
 			   <br>
-			   <font size="6" style="color:white;">Announcing DXC Workplace 3</font><br><br>
-			   <font size="3" style="color:white;">Join the conversation.</font><br><br>
-			   		   <font size="3" style="color:white;"><a href="https://my.dxc.com/content/dam/private/employee_resources/dxc-workplace/DXC_Workplace_Employee_message.pdf">READ MORE</a></font><br/>		   
+			   <font size="5" style="color:white;">Announcing DXC Workplace 3</font><br><br>
+			   <font size="2" style="color:white;">Join the conversation.</font><br><br>
+			   		   <font size="2" style="color:white;"><a href="https://my.dxc.com/content/dam/private/employee_resources/dxc-workplace/DXC_Workplace_Employee_message.pdf">READ MORE</a></font><br/>		   
 
 			   </p>
 	      </div>
@@ -186,9 +186,9 @@ a:active {
 	     <div style="position:absolute;bottom:20px;left:50px;padding-left:0;">     
 			   <p id="message-box">
 			   <br>
-			   <font size="6" style="color:white;">Announcing DXC Workplace 4</font><br><br>
-			   <font size="3" style="color:white;">Join the conversation.</font><br><br>
-			   		   <font size="3" style="color:white;"><a href="https://my.dxc.com/content/dam/private/employee_resources/dxc-workplace/DXC_Workplace_Employee_message.pdf">READ MORE</a></font><br/>		   
+			   <font size="5" style="color:white;">Announcing DXC Workplace 4</font><br><br>
+			   <font size="2" style="color:white;">Join the conversation.</font><br><br>
+			   		   <font size="2" style="color:white;"><a href="https://my.dxc.com/content/dam/private/employee_resources/dxc-workplace/DXC_Workplace_Employee_message.pdf">READ MORE</a></font><br/>		   
 		   
 			   </p>
 	      </div>
@@ -197,7 +197,7 @@ a:active {
 			    <a class="carousel-control" href="#myCarousel" data-slide="next">Next Feature</a>	
 		  </div>
 		  
-		<div style="position:absolute;bottom:15px;left:230px;padding-left:0;">   
+		<div style="position:absolute;bottom:16px;left:230px;padding-left:0;">   
 		
 			<svg width="100" height="100">
 			 <a class="carousel-control" href="#myCarousel" data-slide="next">
