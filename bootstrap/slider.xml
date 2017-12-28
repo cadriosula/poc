@@ -96,7 +96,7 @@ a:active {
        </div>
 	   
       <div class="item active">
-        <img src="https://rawgit.com/cadriosula/poc/master/bootstrap/globe.jpg" alt="globe" style="width:100%;height:380px">
+        <img src="https://raw.githubusercontent.com/cadriosula/poc/master/bootstrap/globe.jpg" alt="globe" style="width:100%;height:380px">
 		
 		  <div style="position:absolute;bottom:20px;left:50px;padding-left:0;">     
 	       <p id="message-box">
@@ -126,7 +126,7 @@ a:active {
 
 	  
       <div class="item">
-	  	  <img src="https://rawgit.com/cadriosula/poc/master/bootstrap/girl.jpg" alt="Los Angeles" style="width:100%;height:380px">
+	  	  <img src="https://raw.githubusercontent.com/cadriosula/poc/master/bootstrap/girl.jpg" alt="Los Angeles" style="width:100%;height:380px">
 		  <div style="position:absolute;bottom:20px;left:50px;padding-left:0;">     
 			   <p id="message-box">
 			   <br>
@@ -154,7 +154,7 @@ a:active {
       </div>
     
       <div class="item">
-        <img src="https://rawgit.com/cadriosula/poc/master/bootstrap/nyc.jpg" alt="New york" style="width:100%;height:380px">
+        <img src="https://raw.githubusercontent.com/cadriosula/poc/master/bootstrap/nyc.jpg" alt="New york" style="width:100%;height:380px">
 		  <div style="position:absolute;bottom:20px;left:50px;padding-left:0;">     
 			   <p id="message-box">
 			   <br>
@@ -181,7 +181,7 @@ a:active {
 		</div>
       </div>
 	        <div class="item">
-        <img src="https://rawgit.com/cadriosula/poc/master/bootstrap/swiss.jpg" alt="Switzerland" style="width:100%;height:380px">
+        <img src="https://raw.githubusercontent.com/cadriosula/poc/master/bootstrap/swiss.jpg" alt="Switzerland" style="width:100%;height:380px">
 		
 	     <div style="position:absolute;bottom:20px;left:50px;padding-left:0;">     
 			   <p id="message-box">
