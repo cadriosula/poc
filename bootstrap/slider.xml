@@ -6,9 +6,9 @@
 	 
 <![CDATA[ 
 
-  <link rel="stylesheet" href="https://rawgit.com/cadriosula/poc/master/bootstrap/bootstrap.min.css">
-   <script src="https://rawgit.com/cadriosula/poc/master/bootstrap/jquery.min.js"></script>
-  <script src="https://rawgit.com/cadriosula/poc/master/bootstrap/bootstrap.min.js"></script>
+  <link rel="stylesheet" href="https://raw.githubusercontent.com/cadriosula/poc/master/bootstrap/bootstrap.min.css">
+   <script src="https://raw.githubusercontent.com/cadriosula/poc/master/bootstrap/jquery.min.js"></script>
+  <script src="https://raw.githubusercontent.com/cadriosula/poc/master/bootstrap/bootstrap.min.js"></script>
 
 <!--  
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">   
@@ -85,7 +85,7 @@ a:active {
     <div class="carousel-inner">
 
 		  	
-	 	   <div style="position:absolute;bottom:40px;left:60px;width:10%;">     
+	 	   <div style="position:absolute;bottom:40px;left:60px;width:20%;">     
 		  <!-- Indicators -->
 			<ol class="carousel-indicators">
 			  <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
@@ -101,7 +101,7 @@ a:active {
 		  <div style="position:absolute;bottom:20px;left:50px;padding-left:0;">     
 	       <p id="message-box">
 		   <br>
-		   <font size="5" style="color:white;">Announcing DXC Workplace 1</font><br><br>
+		   <font size="5" style="color:white;">Announcing DXC Workplace 1A</font><br><br>
 		   <font size="2" style="color:white;">Join the conversation.</font><br><br>
 		   <font size="2" style="color:white;"><a href="https://my.dxc.com/content/dam/private/employee_resources/dxc-workplace/DXC_Workplace_Employee_message.pdf">READ MORE</a></font><br/>		   
 		   </p>
