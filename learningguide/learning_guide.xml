@@ -67,8 +67,8 @@
                                 class="imgBox" />
                         </td>
                         <td valign="top">
-                            <img src="https://raw.githubusercontent.com/cadriosula/poc/master/learningguide/Aws.png"
-                                class="imgBox" />
+                            <a href="https://rawgit.com/cadriosula/poc/master/learningguide/aws/aws.html" target="_blank"><img src="https://raw.githubusercontent.com/cadriosula/poc/master/learningguide/Aws.png"
+                                class="imgBox" /></a>
                         </td>
                         <td valign="top">
                             <img src="https://raw.githubusercontent.com/cadriosula/poc/master/learningguide/VmWare.png"
