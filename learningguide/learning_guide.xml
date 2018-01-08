@@ -38,7 +38,7 @@
                 </td>
             </tr>
         </table>
-        <table style="width: 500px; height: 500px;" cellspacing=0 cellpadding=0>
+        <table style="width: 500px; height: 300px;" cellspacing=0 cellpadding=0>
             <tr>
                 <td valign="top" style="width: 280px; height: 30px;">
                     <img src="https://raw.githubusercontent.com/cadriosula/poc/master/learningguide/Azure.png" class="imgBox" />
@@ -180,6 +180,7 @@
                         </table>
                 </td>
             </tr>
+   </table>
     </div>
 
      ]]>
