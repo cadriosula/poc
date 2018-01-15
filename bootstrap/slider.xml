@@ -84,9 +84,9 @@ a:active {
                   </div>
 	   
       <div class="item active">
-        <img src="https://raw.githubusercontent.com/cadriosula/poc/master/bootstrap/meeting.jpg" alt="image1" class="slider-image">
+        <img src="https://raw.githubusercontent.com/cadriosula/poc/master/bootstrap/meeting.jpg" alt="image1" style="width:100%;height:320px;">
 		
-		<div class="message-box-wrapper">     
+	    <div class="message-box-wrapper">     
 	       <p id="message-box">
 		   <br>
 		   <font size="4" style="color:white;">Announcing DXC Workplace</font><br><br>
@@ -114,7 +114,7 @@ a:active {
 
 	  
       <div class="item">
-	  	  <img src="https://raw.githubusercontent.com/cadriosula/poc/master/bootstrap/skyscraper.jpg" alt="image2" class="slider-image">
+	  	  <img src="https://raw.githubusercontent.com/cadriosula/poc/master/bootstrap/skyscraper.jpg" alt="image2" style="width:100%;height:320px;">
 		  <div class="message-box-wrapper">
 			   <p id="message-box">
 			   <br>
