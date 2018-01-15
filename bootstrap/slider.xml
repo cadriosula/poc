@@ -27,6 +27,7 @@
 
 .carousel-indicators.active{width:12px;height:12px;margin:0;background-color:#fff}
 
+.container{padding-right:0px;padding-left:0px;}
 
 #message-box {
     border-radius: 0px 200px 200px 0px;
