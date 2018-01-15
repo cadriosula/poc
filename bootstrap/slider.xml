@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <Module>
-  <ModulePrefs title="hello world example" /> 
+  <ModulePrefs title="Slider" /> 
   
    <Content type="html" view="home">
 	 
@@ -90,7 +90,7 @@ a:active {
       <div class="item active">
         <img src="https://raw.githubusercontent.com/cadriosula/poc/master/bootstrap/meeting.jpg" alt="image1" style="width:100%;height:320px">
 		
-		<div style="position:absolute;bottom:20px;left:50px;padding-left:0;">     
+		<div style="position:absolute;bottom:20px;left:30px;padding-left:0;">     
 	       <p id="message-box">
 		   <br>
 		   <font size="4" style="color:white;">Announcing DXC Workplace</font><br><br>
