@@ -37,8 +37,8 @@
     border-radius: 0px 200px 200px 0px;
     background: #000000;
     padding: 40px; 
-    width: 340px;
-    height: 320px; 
+    width: 300px;
+    height: 240px; 
 }
 
 .glyphicon{font-family:'Arial';font-style:normal;font-size:14px;color:white}
@@ -68,9 +68,6 @@ a:active {
 
   </style>
   
-</head>
-<body>
-<br>
 <div class="container">
 
   <div id="myCarousel" class="carousel slide" data-ride="carousel">
@@ -91,12 +88,12 @@ a:active {
        </div>
 	   
       <div class="item active">
-        <img src="https://raw.githubusercontent.com/cadriosula/poc/master/bootstrap/meeting.jpg" alt="image1" style="width:100%;height:380px">
+        <img src="https://raw.githubusercontent.com/cadriosula/poc/master/bootstrap/meeting.jpg" alt="image1" style="width:100%;height:320px">
 		
-		  <div style="position:absolute;bottom:20px;left:50px;padding-left:0;">     
+		<div style="position:absolute;bottom:20px;left:50px;padding-left:0;">     
 	       <p id="message-box">
 		   <br>
-		   <font size="5" style="color:white;">Announcing DXC Workplace</font><br><br>
+		   <font size="4" style="color:white;">Announcing DXC Workplace</font><br><br>
 		   <font size="2" style="color:white;">Join the conversation.</font><br><br>
 		   <font size="2" style="color:white;"><a href="https://my.dxc.com/content/dam/private/employee_resources/dxc-workplace/DXC_Workplace_Employee_message.pdf">READ MORE</a></font><br/>		   
 		   </p>
