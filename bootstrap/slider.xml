@@ -38,7 +38,7 @@
 }
 
 .message-box-wrapper { position:absolute;bottom:30px;left:30px;padding-left:0;}
-
+.slider-image {width:100%;height:320px; }
 .glyphicon{font-family:'Arial';font-style:normal;font-size:14px;color:white}
 .carousel-control{font-family:'Arial';font-style:normal;font-size:12px;color:white;opacity:1}
 
@@ -84,7 +84,7 @@ a:active {
                   </div>
 	   
       <div class="item active">
-        <img src="https://raw.githubusercontent.com/cadriosula/poc/master/bootstrap/meeting.jpg" alt="image1" style="width:100%;height:320px">
+        <img src="https://raw.githubusercontent.com/cadriosula/poc/master/bootstrap/meeting.jpg" alt="image1" class="slider-image">
 		
 		<div class="message-box-wrapper">     
 	       <p id="message-box">
@@ -114,7 +114,7 @@ a:active {
 
 	  
       <div class="item">
-	  	  <img src="https://raw.githubusercontent.com/cadriosula/poc/master/bootstrap/skyscraper.jpg" alt="image2" style="width:100%;height:380px">
+	  	  <img src="https://raw.githubusercontent.com/cadriosula/poc/master/bootstrap/skyscraper.jpg" alt="image2" class="slider-image">
 		  <div class="message-box-wrapper">
 			   <p id="message-box">
 			   <br>
@@ -142,7 +142,7 @@ a:active {
       </div>
     
       <div class="item">
-        <img src="https://raw.githubusercontent.com/cadriosula/poc/master/bootstrap/nyc.jpg" alt="image3" style="width:100%;height:380px">
+        <img src="https://raw.githubusercontent.com/cadriosula/poc/master/bootstrap/nyc.jpg" alt="image3" class="slider-image">
 		  <div class="message-box-wrapper">
 			   <p id="message-box">
 			   <br>
@@ -169,7 +169,7 @@ a:active {
 		</div>
       </div>
 	        <div class="item">
-        <img src="https://raw.githubusercontent.com/cadriosula/poc/master/bootstrap/swiss.jpg" alt="image4" style="width:100%;height:380px">
+        <img src="https://raw.githubusercontent.com/cadriosula/poc/master/bootstrap/swiss.jpg" alt="image4" class="slider-image">
 		
 	     <div class="message-box-wrapper">
 			   <p id="message-box">
