@@ -97,7 +97,7 @@ a:active {
 			    <a class="carousel-control" href="#myCarousel" data-slide="next">Next Feature</a>	
 		  </div>
 		  
-		<div style="position:absolute;bottom:16px;left:200px;padding-left:0;">   
+		<div style="position:absolute;bottom:16px;left:190px;padding-left:0;">   
 		
 			<svg width="100" height="100">
 			 <a class="carousel-control" href="#myCarousel" data-slide="next">
@@ -122,11 +122,11 @@ a:active {
 	   
 			   </p>
 	      </div>
-		  <div style="position:absolute;bottom:80px;left:160px;padding-left:0;width:500px">    			   
+		  <div style="position:absolute;bottom:80px;left:130px;padding-left:0;width:500px">    			   
 			    <a class="carousel-control" href="#myCarousel" data-slide="next">Next Feature</a>	
 		  </div>
 		  
-		<div style="position:absolute;bottom:16px;left:230px;padding-left:0;">   
+		<div style="position:absolute;bottom:16px;left:190px;padding-left:0;">   
 		
 			<svg width="100" height="100">
 			 <a class="carousel-control" href="#myCarousel" data-slide="next">
@@ -151,11 +151,11 @@ a:active {
 			   </p>
 	      </div>
 		  	  
-		  <div style="position:absolute;bottom:80px;left:160px;padding-left:0;width:500px;">    			   
+		  <div style="position:absolute;bottom:80px;left:130px;padding-left:0;width:500px;">    			   
 			    <a class="carousel-control" href="#myCarousel" data-slide="next">Next Feature</a>	
 		  </div>
 		  
-		<div style="position:absolute;bottom:16px;left:230px;padding-left:0;">   
+		<div style="position:absolute;bottom:16px;left:190px;padding-left:0;">   
 		
 			<svg width="100" height="100">
 			 <a class="carousel-control" href="#myCarousel" data-slide="next">
@@ -179,11 +179,11 @@ a:active {
 			   </p>
 	      </div>
 		  	  
-		  <div style="position:absolute;bottom:80px;left:160px;padding-left:0;width:500px;">    			   
+		  <div style="position:absolute;bottom:80px;left:130px;padding-left:0;width:500px;">    			   
 			    <a class="carousel-control" href="#myCarousel" data-slide="next">Next Feature</a>	
 		  </div>
 		  
-		<div style="position:absolute;bottom:16px;left:230px;padding-left:0;">   
+		<div style="position:absolute;bottom:16px;left:190px;padding-left:0;">   
 		
 			<svg width="100" height="100">
 			 <a class="carousel-control" href="#myCarousel" data-slide="next">
